@@ -1,0 +1,2 @@
+# gente
+mi primer git
